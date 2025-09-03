@@ -1,6 +1,3 @@
-Aqui vai um **README** caprichado, pronto pra colar no seu repositório 👇
-
----
 
 # PProductions — EDA e Modelagem IMDb (Vitória Freire)
 
