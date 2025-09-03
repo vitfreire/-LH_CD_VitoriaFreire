@@ -9,7 +9,7 @@ O desenvolvimento e a execução são focados no **Google Colab**, com geração
 
 ## Acesso rápido ao notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vitfreire/-LH_CD_VitoriaFreire/blob/principal/lh_cd_vitoriafreire2/LH_CD_VitoriaFreire2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vitfreire/-LH_CD_VitoriaFreire/blob/main/LH_CD_VitoriaFreire2.ipynb)
 
 > Alternativa via GitHub: abra este repositório → entre na pasta `lh_cd_vitoriafreire2/` → clique no arquivo **`LH_CD_VitoriaFreire2.ipynb`**. No topo da página do GitHub aparecerá o botão **“Open in Colab”**; clique para abrir no Colab e executar.
 
